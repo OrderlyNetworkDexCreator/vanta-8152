@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "vanta_exchange",
   "VITE_ORDERLY_BROKER_NAME": "Vanta",
   "VITE_BROKER_EOA_ADDRESS": "0x7d75811ebc2ea213e269ac2759be7a1702a3b1cf",
   "VITE_DISABLE_MAINNET": "false",
